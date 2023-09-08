@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/energy-shine-studio/static/css/main.7444f99e.css",
+    "main.js": "/energy-shine-studio/static/js/main.a498d9e5.js",
+    "static/media/yoga-banner.mp4": "/energy-shine-studio/static/media/yoga-banner.52e03580cda15a1e68ef.mp4",
+    "static/media/img2.jpg": "/energy-shine-studio/static/media/img2.6e24a260b5826bae6467.jpg",
+    "static/media/img21.jpg": "/energy-shine-studio/static/media/img21.ed36a544bae11938eb76.jpg",
+    "static/media/img41.jpg": "/energy-shine-studio/static/media/img41.6003864cc2cc8b69c8e3.jpg",
+    "static/media/img1.jpg": "/energy-shine-studio/static/media/img1.af9a8e4ec3c4bf265ed0.jpg",
+    "static/media/logo.png": "/energy-shine-studio/static/media/logo.670597f69424176b38c8.png",
+    "index.html": "/energy-shine-studio/index.html",
+    "main.7444f99e.css.map": "/energy-shine-studio/static/css/main.7444f99e.css.map",
+    "main.a498d9e5.js.map": "/energy-shine-studio/static/js/main.a498d9e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7444f99e.css",
+    "static/js/main.a498d9e5.js"
+  ]
+}
