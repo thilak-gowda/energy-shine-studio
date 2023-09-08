@@ -1,0 +1,379 @@
+.bg-img {
+    background-color: #e6edef;
+}
+
+
+
+.sec {
+    padding: 4% 0%;
+}
+
+/* navbar */
+.bg-body-tertiary {
+    background-color: transparent !important;
+}
+
+.logoWidth {
+    width: 35%;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 3%;
+    border-radius: 20px;
+}
+
+.navitem {
+    background-color: #ed3095;
+    border: 1.5px solid #0072bc;
+    color: white;
+    border-radius: 20px;
+}
+
+
+.namelogo {
+    font-size: 35px;
+    font-weight: 600;
+    width: 35%;
+    font-family: 'Satisfy', cursive;
+    color: goldenrod;
+    text-transform: capitalize;
+}
+
+Nav {
+    font-size: 15px;
+    font-weight: 800;
+    color: #009f8f !important;
+    text-transform: uppercase;
+
+}
+
+.navbar {
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+}
+
+
+/* banner section */
+
+.viedoContainer {
+    position: relative;
+}
+
+.conViedo {
+    position: absolute;
+    bottom: 0%;
+    font-family: 'Qwitcher Grypen', cursive !important;
+    left: 10%;
+    font-size: 75px;
+    color: #85888c;
+    background-color: rgba(255, 255, 255, 0.2);
+    column-gap: 5%;
+}
+
+.bannerViedo {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+
+
+/* intro sec */
+
+.enqbtn {
+    background-color: #ed3095;
+    border: 1.5px solid #0072bc;
+    color: white;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.subcontent {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.introHeading {
+    font-size: 50px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+
+
+/* about us section */
+
+.abtCont p {
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 500;
+}
+
+.sub {
+    font-size: 25px;
+    text-align: center;
+    font-weight: 500;
+    color: #ed3095;
+    font-style: italic;
+}
+
+/* about us section */
+
+.abtCont p {
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 500;
+}
+
+.sub {
+    font-size: 25px;
+    text-align: center;
+    font-weight: 600;
+    color: #ed3095;
+    text-transform: capitalize;
+}
+
+
+
+/* key feature */
+
+.comnfnt {
+    font-size: 20px;
+    text-align: center;
+    width: 90%;
+    display: block;
+    margin: 0% auto;
+    padding-bottom: 3%;
+}
+
+.subhed1 {
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 3%;
+}
+
+.subcont1 {
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.img-bord {
+    border-radius: 10px;
+}
+
+
+.clsNm li {
+    list-style: none;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-top: 10%;
+}
+
+.btn-div {
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.call {
+    position: fixed;
+    top: 30%;
+    right: 0%;
+    transform: translate(0%, -50%);
+}
+
+.call2 {
+    position: fixed;
+    top: 70%;
+    right: 0%;
+    transform: translate(0%, -50%);
+}
+
+.cal-1 {
+    font-size: 25px;
+    color: white;
+}
+
+.fa-whatsapp {
+    margin-top: 4%;
+    font-size: 31px;
+    color: white;
+
+}
+
+.call {
+    background-color: lightgrey;
+    width: 5%;
+}
+
+
+.call2 {
+    background-color: lightgrey;
+    width: 5%;
+}
+
+.btm-icon {
+    font-size: 20px;
+    color: #0072bc;
+    margin-top: 5%;
+    text-decoration: none !important;
+
+}
+
+.col-3 i {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.adres {
+    font-size: 20px;
+    color: grey;
+}
+
+.col-3 a {
+    text-decoration: none;
+    color: grey;
+}
+
+.col-3 a:hover {
+    color: #ed3095;
+}
+
+.adres:hover {
+    color: #ed3095;
+}
+
+
+.btm-icon a {
+    color: #0072bc;
+    cursor: pointer;
+}
+
+.copyrights {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+
+@media only screen and (min-width:760px) {}
+
+
+@media only screen and (max-width:760px) {
+    .logoWidth {
+        width: 80%;
+        background-color: rgba(255, 255, 255, 0.6);
+    }
+
+    .collapsed {
+        background-color: rgba(255, 255, 255, 0.6);
+    }
+
+    .call,
+    .call2 {
+        right: 0%;
+        width: 15%;
+    }
+
+    .conViedo {
+        line-height: 55px;
+        left: 0%;
+        font-size: 80px;
+        bottom: 5%;
+        padding: 3% 1%;
+
+    }
+
+    .navbar {
+        z-index: 200;
+    }
+
+    .viedoContainer {
+        z-index: 100;
+    }
+
+    .abtCont p {
+        font-size: 16px;
+    }
+
+    .sub {
+        font-size: 20px;
+    }
+
+    .introHeading {
+        font-size: 30px;
+    }
+
+    .comnfnt {
+        font-size: 16px;
+    }
+
+    .subhed1 {
+        font-size: 20px;
+        margin-bottom: 2%;
+    }
+
+    .subcont1 {
+        font-size: 16px;
+    }
+
+    .clsNm li {
+        font-size: 20px;
+        padding-top: 5%;
+    }
+
+    .btn-div {
+        margin-top: 6%;
+        margin-left: 8%;
+    }
+}
+
+
+
+/* swiper style */
+
+
+#app {
+    height: 100%;
+  }
+  html,
+  body {
+    position: relative;
+    height: 100%;
+  }
+  
+  body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    background-color: transparent;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+  }
+  

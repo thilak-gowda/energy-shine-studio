@@ -1,0 +1,21 @@
+h2 {
+    font-family: 'Qwitcher Grypen', cursive !important;
+
+    font-size: 80px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #0072bc;
+    line-height: 35px;
+}
+
+
+
+
+@media only screen and (max-width:760px) {
+
+    h2 {
+        font-size: 55px;
+        line-height: 25px;
+    }
+
+}
