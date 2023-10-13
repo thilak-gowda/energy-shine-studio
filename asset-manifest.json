@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/energy-shine-studio/static/css/main.d7f748e3.css",
-    "main.js": "/energy-shine-studio/static/js/main.904ea44a.js",
+    "main.js": "/energy-shine-studio/static/js/main.6f6d2a66.js",
     "static/media/yoga-banner.mp4": "/energy-shine-studio/static/media/yoga-banner.52e03580cda15a1e68ef.mp4",
     "static/media/img21.jpg": "/energy-shine-studio/static/media/img21.ed36a544bae11938eb76.jpg",
     "static/media/img41.jpg": "/energy-shine-studio/static/media/img41.6003864cc2cc8b69c8e3.jpg",
@@ -16,8 +16,8 @@
     "static/media/g-2.jpeg": "/energy-shine-studio/static/media/g-2.54916ff800f3313c23fb.jpeg",
     "static/media/g-5.jpeg": "/energy-shine-studio/static/media/g-5.56df411912831af44d52.jpeg",
     "static/media/g-12.jpeg": "/energy-shine-studio/static/media/g-12.12bcdfa95cc43a008d80.jpeg",
+    "static/media/top-rated-instructors.jpeg": "/energy-shine-studio/static/media/top-rated-instructors.9a07cc6accf5567b4c7e.jpeg",
     "static/media/logo.png": "/energy-shine-studio/static/media/logo.670597f69424176b38c8.png",
-    "static/media/top-rated-instructors.jpeg": "/energy-shine-studio/static/media/top-rated-instructors.1737ac2981237eb8fdd1.jpeg",
     "static/media/g-3.jpeg": "/energy-shine-studio/static/media/g-3.756cdd6977759cab2086.jpeg",
     "static/media/g-1.jpeg": "/energy-shine-studio/static/media/g-1.9464a7ed83e45d0531d8.jpeg",
     "static/media/g-8.jpeg": "/energy-shine-studio/static/media/g-8.5617d184dc9faa8a9e7b.jpeg",
@@ -25,10 +25,10 @@
     "static/media/g-10.jpeg": "/energy-shine-studio/static/media/g-10.4b58d4d5c82ce422dfc0.jpeg",
     "index.html": "/energy-shine-studio/index.html",
     "main.d7f748e3.css.map": "/energy-shine-studio/static/css/main.d7f748e3.css.map",
-    "main.904ea44a.js.map": "/energy-shine-studio/static/js/main.904ea44a.js.map"
+    "main.6f6d2a66.js.map": "/energy-shine-studio/static/js/main.6f6d2a66.js.map"
   },
   "entrypoints": [
     "static/css/main.d7f748e3.css",
-    "static/js/main.904ea44a.js"
+    "static/js/main.6f6d2a66.js"
   ]
 }
