@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.8df46c27.css",
-    "main.js": "/static/js/main.322ab8c7.js",
+    "main.js": "/static/js/main.efcaaaf5.js",
     "static/media/vied2.mp4": "/static/media/vied2.31635a93188d4b1c1575.mp4",
     "static/media/vied1.mp4": "/static/media/vied1.84be458a9f28f75bc666.mp4",
     "static/media/yoga-banner.mp4": "/static/media/yoga-banner.52e03580cda15a1e68ef.mp4",
-    "static/media/strech1.jpeg": "/static/media/strech1.e0211f0029fba1eed83a.jpeg",
     "static/media/g-11.jpeg": "/static/media/g-11.38e5f69401b4137c0060.jpeg",
     "static/media/just-right-time-slots.jpeg": "/static/media/just-right-time-slots.722171739a5a83a71d05.jpeg",
     "static/media/g-6.jpeg": "/static/media/g-6.8fe9d3dfcae3c2e9390f.jpeg",
@@ -17,6 +16,7 @@
     "static/media/g-12.jpeg": "/static/media/g-12.f5f4ae5148c8cf604bc2.jpeg",
     "static/media/top-rated-instructors.jpeg": "/static/media/top-rated-instructors.9a07cc6accf5567b4c7e.jpeg",
     "static/media/g-10.jpeg": "/static/media/g-10.4b58d4d5c82ce422dfc0.jpeg",
+    "static/media/strech1.jpg": "/static/media/strech1.1e141632ac65c0adf4fa.jpg",
     "static/media/logo.png": "/static/media/logo.670597f69424176b38c8.png",
     "static/media/g-3.jpeg": "/static/media/g-3.756cdd6977759cab2086.jpeg",
     "static/media/g-1.jpeg": "/static/media/g-1.9464a7ed83e45d0531d8.jpeg",
@@ -25,10 +25,10 @@
     "static/media/g-13.jpeg": "/static/media/g-13.2f7ceb8858045ee61dd0.jpeg",
     "index.html": "/index.html",
     "main.8df46c27.css.map": "/static/css/main.8df46c27.css.map",
-    "main.322ab8c7.js.map": "/static/js/main.322ab8c7.js.map"
+    "main.efcaaaf5.js.map": "/static/js/main.efcaaaf5.js.map"
   },
   "entrypoints": [
     "static/css/main.8df46c27.css",
-    "static/js/main.322ab8c7.js"
+    "static/js/main.efcaaaf5.js"
   ]
 }
