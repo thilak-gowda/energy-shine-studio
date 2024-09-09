@@ -1,7 +1,7 @@
 import React from "react";
 
 import Heading from "./headinges";
-import imgg1 from "./images/img1.jpg";
+import imgg1 from "./images/strech1.jpg";
 
 function About() {
     return (
@@ -15,10 +15,7 @@ function About() {
 
                     <div className="abtCont">
                         <p>  Energy Shine Studio is your gateway to a comprehensive array of yoga practices, carefully curated to cater to diverse needs. Our studio pulsates with positive energy, welcoming all who seek to breathe, stretch, and thrive through the transformative power of yoga. Nestled in the heart of the city, it's the ideal space to discover inner harmony among like-minded yoga enthusiasts.
-
-
-
-</p>
+                        </p>
 
 
 
@@ -30,7 +27,7 @@ function About() {
                     </div>
                 </div>
                 <div className="col-md-6 ">
-                    <img src={imgg1} className="w-100" alt="" />
+                    <img src={imgg1} className="w-100 abtimg" alt="" />
                 </div>
             </div>
         </div>

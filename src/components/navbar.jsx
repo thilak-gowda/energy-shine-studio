@@ -31,7 +31,7 @@ function NavScrollExample() {
                         <Nav.Link href="#experties" >EXPERTISE</Nav.Link> */}
 
 
-                        <Nav.Link href="#contact" className='navitem px-3'>CONTACT</Nav.Link>
+                        <Nav.Link href="#contact" className='navitem px-3'> <a href="mailto:kavyakirana1981@gmail.com" className="btm-icon"> CONTACT </a></Nav.Link>
                     </Nav>
 
                 </Navbar.Collapse>
