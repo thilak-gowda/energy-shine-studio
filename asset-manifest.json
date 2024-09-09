@@ -1,22 +1,34 @@
 {
   "files": {
     "main.css": "/static/css/main.d920ef59.css",
-    "main.js": "/static/js/main.90da2969.js",
+    "main.js": "/static/js/main.bbd10e9e.js",
     "static/media/vied2.mp4": "/static/media/vied2.31635a93188d4b1c1575.mp4",
     "static/media/vied1.mp4": "/static/media/vied1.84be458a9f28f75bc666.mp4",
     "static/media/yoga-banner.mp4": "/static/media/yoga-banner.52e03580cda15a1e68ef.mp4",
+    "static/media/g-2-8.jpeg": "/static/media/g-2-8.3f60f5c9ef47d484a786.jpeg",
+    "static/media/g-2-6.jpeg": "/static/media/g-2-6.f83fcbca35a026fba808.jpeg",
+    "static/media/g-2-9.jpeg": "/static/media/g-2-9.42840aaa94b3a9046e73.jpeg",
     "static/media/g-11.jpeg": "/static/media/g-11.38e5f69401b4137c0060.jpeg",
     "static/media/just-right-time-slots.jpeg": "/static/media/just-right-time-slots.722171739a5a83a71d05.jpeg",
+    "static/media/g-2-12.jpeg": "/static/media/g-2-12.a46281972a560f435045.jpeg",
+    "static/media/g-2-3.jpeg": "/static/media/g-2-3.4e429a12510642ab0141.jpeg",
     "static/media/g-6.jpeg": "/static/media/g-6.8fe9d3dfcae3c2e9390f.jpeg",
+    "static/media/g-2-5.jpeg": "/static/media/g-2-5.892653b558e5c8db7fb3.jpeg",
+    "static/media/g-2-1.jpeg": "/static/media/g-2-1.0dbbe5721d2990e97cf2.jpeg",
+    "static/media/g-2-2.jpeg": "/static/media/g-2-2.c93cb291243cf4c151a2.jpeg",
+    "static/media/g-2-4.jpeg": "/static/media/g-2-4.bd3c438e660f6fad1e27.jpeg",
     "static/media/different-styles-for-all.jpeg": "/static/media/different-styles-for-all.5146682ff9b2745d816f.jpeg",
     "static/media/g-7.jpeg": "/static/media/g-7.585d1769d456d5e1e84e.jpeg",
     "static/media/g-9.jpeg": "/static/media/g-9.8f435380d8837a9dedc3.jpeg",
+    "static/media/g-2-7.jpeg": "/static/media/g-2-7.986cbfd13bd8a9d5fffe.jpeg",
+    "static/media/g-2-11.jpeg": "/static/media/g-2-11.a0a7ed9086489512e3aa.jpeg",
     "static/media/g-2.jpeg": "/static/media/g-2.54916ff800f3313c23fb.jpeg",
     "static/media/g-5.jpeg": "/static/media/g-5.56df411912831af44d52.jpeg",
     "static/media/g-12.jpeg": "/static/media/g-12.f5f4ae5148c8cf604bc2.jpeg",
     "static/media/top-rated-instructors.jpeg": "/static/media/top-rated-instructors.9a07cc6accf5567b4c7e.jpeg",
     "static/media/strech1.jpg": "/static/media/strech1.c70ebb58cdddaaa6a5a4.jpg",
     "static/media/g-10.jpeg": "/static/media/g-10.4b58d4d5c82ce422dfc0.jpeg",
+    "static/media/g-2-10.jpeg": "/static/media/g-2-10.7a46cc63a4b2434cb20e.jpeg",
     "static/media/logo.png": "/static/media/logo.670597f69424176b38c8.png",
     "static/media/g-3.jpeg": "/static/media/g-3.756cdd6977759cab2086.jpeg",
     "static/media/g-1.jpeg": "/static/media/g-1.9464a7ed83e45d0531d8.jpeg",
@@ -25,10 +37,10 @@
     "static/media/g-13.jpeg": "/static/media/g-13.2f7ceb8858045ee61dd0.jpeg",
     "index.html": "/index.html",
     "main.d920ef59.css.map": "/static/css/main.d920ef59.css.map",
-    "main.90da2969.js.map": "/static/js/main.90da2969.js.map"
+    "main.bbd10e9e.js.map": "/static/js/main.bbd10e9e.js.map"
   },
   "entrypoints": [
     "static/css/main.d920ef59.css",
-    "static/js/main.90da2969.js"
+    "static/js/main.bbd10e9e.js"
   ]
 }
