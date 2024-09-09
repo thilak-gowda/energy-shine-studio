@@ -1,6 +1,7 @@
 import React from "react";
 
-import imgg3 from "./images/img41.jpg";
+import imgg3 from "./images/g-13.jpeg";
+// import imgg1 from "./images/g-13.jpeg";
 
 import AOS from 'aos';
 
@@ -31,7 +32,7 @@ function IntroSec() {
                     </div>
 
                     <div className="col-md-6 mt-4 mt-md-0">
-                        <img src={imgg3} className="w-100" alt="" />
+                        <img src={imgg3} className="w-100 sec1img" alt="" />
                     </div>
 
                 </div>

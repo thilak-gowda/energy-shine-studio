@@ -2,7 +2,11 @@ import React from "react";
 
 import Heading from "./headinges";
 
-import img2 from "./images/img2.jpg";
+import type1 from "./images/top-rated-instructors.jpeg";
+
+import type2 from "./images/different-styles-for-all.jpeg";
+
+import type3 from "./images/just-right-time-slots.jpeg";
 
 function Keyfeature() {
     return (
@@ -25,7 +29,7 @@ function Keyfeature() {
 
                 <div className="row">
                     <div className="col-md-4 mt-4 mt-md-0">
-                        <img src={img2} alt="" className="w-100 img-bord" />
+                        <img src={type2} alt="" className="w-100 img-bord typyoga" />
 
                         <p className="subhed1">
                         Top Rated Instructors
@@ -37,7 +41,7 @@ function Keyfeature() {
                     </div>
 
                     <div className="col-md-4 mt-4 mt-md-0">
-                        <img src={img2} alt="" className="w-100 img-bord" />
+                        <img src={type1} alt="" className="w-100 img-bord typyoga" />
 
                         <p className="subhed1">
                         Different styles for all
@@ -51,7 +55,7 @@ function Keyfeature() {
                     </div>
 
                     <div className="col-md-4 mt-4 mt-md-0">
-                        <img src={img2} alt="" className="w-100 img-bord" />
+                        <img src={type3} alt="" className="w-100 img-bord typyoga" />
 
                         <p className="subhed1">
                         Just right time slots

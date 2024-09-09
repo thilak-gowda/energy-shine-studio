@@ -58,9 +58,9 @@ function Mainsec() {
                 <Keyfeature />
             </section>
 
-            <section className="sec bg-img">
+            {/* <section className="sec bg-img">
                 <Trainers />
-            </section>
+            </section> */}
 
             <section className="OurClass sec ">
                 <OurClass />
@@ -77,7 +77,10 @@ function Mainsec() {
           
 
             <div className="copyrights py-2">
-                © 2023 All Rights Reserved by Yoga guru.
+                © 2023 All Rights Reserved by Energy Shine Studdio. <br />
+
+                Digital Partner <a href="http://thilak.tech/" className="text-white"> DotTech</a>
+
             </div>
 
         </div>);

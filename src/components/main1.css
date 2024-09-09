@@ -97,6 +97,10 @@ Nav {
     text-transform: uppercase;
 }
 
+.sec1img{
+    height: 600px;
+    object-fit: cover;
+}
 
 
 /* about us section */
@@ -105,6 +109,12 @@ Nav {
     font-size: 18px;
     text-align: justify;
     font-weight: 500;
+}
+
+.abtimg{
+    border-radius: 20px;
+    height: 500px;
+    object-fit: cover;
 }
 
 .sub {
@@ -255,6 +265,28 @@ Nav {
     text-align: center;
 }
 
+/* gallery image */
+
+.galleryImg{
+    height: 300px !important;
+    width: 100%;
+    object-fit: cover;
+}
+
+/* trainer img */
+
+.trainerImg{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+/*  */
+.typyoga{
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+}
 
 
 @media only screen and (min-width:760px) {}
@@ -297,6 +329,11 @@ Nav {
         font-size: 16px;
     }
 
+
+    .abtimg {
+        height: 300px;
+    }
+
     .sub {
         font-size: 20px;
     }
@@ -327,6 +364,7 @@ Nav {
         margin-top: 6%;
         margin-left: 8%;
     }
+
 }
 
 

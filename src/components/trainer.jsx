@@ -16,16 +16,17 @@ function Trainers() {
                 "Breathe. Stretch. Thrive. "
             </p>
             <div className="row">
-                <div className="col-3">
-                    <img src={img22} alt="" className="w-100" />
+
+            <div className="col-4">
+                    <img src={img23} alt="" className="trainerImg" />
                 </div>
 
-                <div className="col-3">
-                    <img src={img23} alt="" className="w-100" />
+                <div className="col-4">
+                    <img src={img22} alt="" className="trainerImg" />
                 </div>
 
-                <div className="col-3">
-                    <img src={img24} alt="" className="w-100" />
+                <div className="col-4">
+                    <img src={img24} alt="" className="trainerImg" />
                 </div>
 
                 {/* <div className="col-3">
